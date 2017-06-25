@@ -1,0 +1,19 @@
+export AWS_DEFAULT_PROFILE=SUPERHERO
+to generate keys:
+
+ssh-keygen
+/path/ -/root/.ssh/name
+
+To add keys to profile:
+
+ssh-agent bash
+ssh-add ~/.ssh/ -"path"
+wget -link - to download terraform
+
+unzip terraform
+export PATH=$PATH:~/terraform
+
+To install Ansible:
+-------------------
+yum -y install ansible                         - ///To get IP - curl canhazip.com///
+ 
